@@ -1,0 +1,39 @@
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    padding-right: 1rem;
+    
+    height: 12rem;
+}
+
+.logo {
+    width: 12rem;
+    height: 9rem;
+}
+
+.table {
+    width: 3rem;
+    height: 3rem;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}
+
+.main-nav-logo {
+    color: black;
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.title {
+    font-size: 4rem;
+    margin-left: 9rem;
+}
+
+.logo-title {
+    display: flex;
+}

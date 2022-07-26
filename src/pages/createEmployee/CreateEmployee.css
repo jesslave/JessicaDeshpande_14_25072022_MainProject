@@ -1,0 +1,55 @@
+main {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .input {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    width: 11rem;
+  }
+
+  .label {
+    text-align: start;
+    margin-bottom: 0.75rem;
+  }
+
+  .sign-in-button {
+    margin-top: 0.5rem;
+  }
+
+  .create-employee-content {
+    width: 290px;
+    margin-left: 5rem;
+  }
+
+  legend {
+    text-align: start;
+  }
+
+  fieldset {
+    margin-bottom: 1rem;
+  }
+
+  .select-department {
+    width: 17.5rem;
+  }
+
+  .select-state {
+    width: 15rem;
+  }
+
+  .header {
+    width:100%;
+  }
+
+  h3 {
+    font-size: 2rem;
+    padding: 0;
+    margin-top: 0;
+    margin-right: 3rem;
+}
